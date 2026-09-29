@@ -3,3 +3,6 @@ testing testing
 add note
 
 welcome testing
+ 1. View Point
+ 2. Jak Coffee
+ 3. Beautyful Girl
